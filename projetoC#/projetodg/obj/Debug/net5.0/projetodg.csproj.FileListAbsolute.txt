@@ -1,0 +1,16 @@
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.csproj.AssemblyReference.cache
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.AssemblyInfoInputs.cache
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.AssemblyInfo.cs
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.csproj.CoreCompileInputs.cache
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.exe
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.deps.json
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.runtimeconfig.json
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.runtimeconfig.dev.json
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.dll
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\ref\projetodg.dll
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\bin\Debug\net5.0\projetodg.pdb
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.dll
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\ref\projetodg.dll
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.pdb
+C:\Users\giero\source\repos\Project\projetoC#\projetodg\obj\Debug\net5.0\projetodg.genruntimeconfig.cache
